@@ -7,7 +7,7 @@ angular-require-grunt-express-seed
 ###1.nodejs
 
 ###2.Ruby
-gem install sass
+gem install sass<br />
 gem install compass
 
 ###3.grunt
