@@ -4,13 +4,12 @@ define([], function() {
 	return {
 		home: {
 			title: '首页',
-			route: '/home',
+			route: '/',
 			template: 'views/main.html',
 			controller: 'appController'
 		},
 		worldmap: {
-			title: '世界地图',
-			route: '/worldmap-register',
+			title: '一级目录',
 			list: {
 				active: {
 					title: '在线人数',
