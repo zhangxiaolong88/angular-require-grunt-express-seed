@@ -6,6 +6,7 @@ angular-require-grunt-express-seed
 依赖：
 1.nodejs
 
+
 2.Ruby
 gem install sass
 gem install compass
