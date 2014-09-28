@@ -5,6 +5,7 @@ angular-require-grunt-express-seed
 
 ##依赖：
 ###1.nodejs
+http://www.nodejs.org/
 
 ###2.Ruby
 gem install sass<br />
